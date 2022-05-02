@@ -1,6 +1,6 @@
 ### Olá, meu povo! Tudo bem? 
 
-<p> Meu nome é Gabriela, seja vem-vindo! Por aqui a gente continua estudando e batalhando para deixar este espaço bonitão e cheio de projetos legais. Eis aqui uma jornalista que está em transição de carreira. Estudante de Front-end pela Laboratória, em breve teremos uma desenvolvedora real, oficial. Nos vemos por aí! </p>
+<p> Meu nome é Gabriela, seja muito bem-vindo! Por aqui a gente continua estudando e batalhando para deixar este espaço bonitão e cheio de projetos legais. Sou formada em jornalismo e me encontro em transição de carreira. Estudante de Front-end pela Laboratória, em breve teremos uma desenvolvedora real, oficial por aqui. Até mais! </p>
 
 <!--
 **GabrielaMedrado/GabrielaMedrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
