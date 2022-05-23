@@ -36,6 +36,4 @@
    
 </div>
   
-   ![Snake animation](https://github.com/GabrielaMedrado/GabrielaMedrado/blob/output/github-contribution-grid-snake.svg)
- 
-  
+   
